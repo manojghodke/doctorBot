@@ -1,5 +1,5 @@
-streamlit
-transformers
-tensorflow
+flask
 nltk
-tf-keras
+transformers
+ollama
+gunicorn
